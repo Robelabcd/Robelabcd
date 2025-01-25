@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robel S. Berhe</h1>
+<h1 align="center">Hi 👋, I'm Robel</h1>
 <h3 align="center">A passionate developer and researcher with a strong foundation in computer science and a knack for solving real-world problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">
 
