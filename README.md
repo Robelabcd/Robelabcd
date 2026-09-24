@@ -8,8 +8,8 @@ I build machine learning systems end to end, from reimplementing papers from scr
 
 ### 🔬 Research
 
-- **Speech Emotion Detection** — 🏆 *Best Paper Award*. [Paper](#) · [Code](#)
-- **Bias Mitigation in Recommender Systems** — techniques for reducing unfair exposure and popularity bias in recommendations. [Paper](#) · [Code](#)
+- **Speech Emotion Detection** — 🏆 *Best Paper Award*.
+- **Bias Mitigation in Recommender Systems** — techniques for reducing unfair exposure and popularity bias in recommendations.
 
 ### 🌱 Currently
 
