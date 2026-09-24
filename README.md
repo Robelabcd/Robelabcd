@@ -6,18 +6,18 @@ I build machine learning systems end to end, from reimplementing papers from scr
 
 ---
 
-### 🔬 Research
+### Research
 
 - **Speech Emotion Detection** — 🏆 *Best Paper Award*.
 - **Bias Mitigation in Recommender Systems** — techniques for reducing unfair exposure and popularity bias in recommendations.
 
-### 🌱 Currently
+### Currently
 
 - Taking graduate Machine Learning and Computer System Architecture at GWU
 - Going deeper on transformers, retrieval systems, and LLM evaluation
 - Reading about alignment and interpretability
 
-### 🛠️ Tech I Use
+### Tech I Use
 
 **ML / Data:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
@@ -27,7 +27,7 @@ I build machine learning systems end to end, from reimplementing papers from scr
 
 ### 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robel-berhe-56b87b22a/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://www.researchgate.net/profile/Robel-Berhe?ev=hdr_xprf)
 
 Open to **ML engineering** internships and full-time roles, and always happy to talk about recommender systems, LLMs, or AI safety.
