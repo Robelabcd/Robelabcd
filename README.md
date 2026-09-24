@@ -11,14 +11,6 @@ I build machine learning systems end to end, from reimplementing papers from scr
 - **Speech Emotion Detection** — 🏆 *Best Paper Award*. [Paper](#) · [Code](#)
 - **Bias Mitigation in Recommender Systems** — techniques for reducing unfair exposure and popularity bias in recommendations. [Paper](#) · [Code](#)
 
-### 🚀 Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**Skylark**](#) | AI agent for airline travel: handles the full booking lifecycle and includes a fare price advisor | Python · LLMs · React |
-| [**SASRec from scratch**](#) | Clean PyTorch reimplementation of Self-Attentive Sequential Recommendation, with benchmarks against the paper | PyTorch |
-| [**RAG Mastery**](#) | End-to-end retrieval-augmented generation curriculum and portfolio project | Python · Vector DBs · LLMs |
-
 ### 🌱 Currently
 
 - Taking graduate Machine Learning and Computer System Architecture at GWU
@@ -36,7 +28,6 @@ I build machine learning systems end to end, from reimplementing papers from scr
 ### 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR-ID)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://www.researchgate.net/profile/Robel-Berhe?ev=hdr_xprf)
 
 Open to **ML engineering** internships and full-time roles, and always happy to talk about recommender systems, LLMs, or AI safety.
